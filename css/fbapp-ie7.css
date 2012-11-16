@@ -1,0 +1,10 @@
+@CHARSET "UTF-8";
+
+#welcomeInfo{
+  position: absolute;
+  top: 135px;
+  color: white;
+  font-size: 11px;
+  left: 85px;
+  line-height: 16px;
+}
